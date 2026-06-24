@@ -1,6 +1,7 @@
 My solution for the HabitLogger project.
 
 Requirements:
+
 1 This is an application where you’ll log occurrences of a habit.
 
 2 This habit can't be tracked by time (ex. hours of sleep), only by quantity (ex. number of water glasses a day)
